@@ -1,0 +1,16 @@
+package main_10;
+
+
+public class Main_10 {
+    String arr[];
+    int x;
+    static void myMethod(int x){
+        System.out.println(x);
+    }
+
+    
+    public static void main(String[] args) {
+        // TODO code application logic here
+        myMethod(1500);
+    }
+}
